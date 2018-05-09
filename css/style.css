@@ -1,0 +1,51 @@
+  html,
+  body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+  }
+  #map {
+      height: 450px;
+      border: 2px dashed #34282C;
+  }
+  .heading {
+      color: #800517;
+      font-family: 'Pacifico', cursive;
+      text-align: center;
+      background-color: #E5E4E2;
+      font-size: 40px;
+      font-weight: bold;
+      font-style: italic;
+  }
+  .container-fluid {
+      height: 100%;
+      position: relative;
+      background-color: #CCFFFF;
+  }
+  #listUL li a {
+      border: 2px dashed #34282C;
+      margin-top: -1px;
+      background-color: #D1D0CE;
+      padding: 10px;
+      font-size: 14px;
+      color: black;
+      display: block;
+      font-weight: bold;
+      font-style: italic;
+      font-family: 'Pacifico', cursive;
+  }
+  #textInput {
+      width: 100%;
+      font-size: 14px;
+      padding: 5px;
+      border: 2px dashed #34282C;
+      margin-bottom: 10px;
+      font-family: 'Pacifico', cursive;
+      background-color: #D1D0CE;
+      color: #0C090A;
+  }
+  #listUL {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+  }
